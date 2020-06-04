@@ -1,4 +1,4 @@
-# Banana PI ZERO (BPi-M2Z) Expansions 
+# Banana PI ZERO (BPi-M2Z) Expansion
 [![Solid001](http://wiki.banana-pi.org/images/9/97/960x360xBanana_Pi_BPI-M2_Zero.jpg.pagespeed.ic.ojS9lv8uWg.webp)](https://github.com/D3vD3m0n/)
 <table>
   <td> <img src="http://wiki.banana-pi.org/images/9/96/426x500xZerointerface.jpg.pagespeed.ic.1TB5s7qhcd.webp" alt=""></img></td>
