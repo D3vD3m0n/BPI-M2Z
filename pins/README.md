@@ -433,17 +433,5 @@
 <p>BPI-M2 Zero 40 PIN GPIO have support 5V input , so you can use 5V input PIN to power zero board .
 </p><p><a class="image"><img src="http://wiki.banana-pi.org/images/a/a9/500x215xZero_gpio_5V.jpg.pagespeed.ic.ChP2iRm3nu.webp" width="500" height="215"></a></p>
 
-<h1><span class="mw-headline" id="Resources">Resources</span></h1>
-<ul><li> schematic diagram: <a rel="nofollow" class="external free" href="https://drive.google.com/file/d/0B4PAo2nW2KfnMW5sVkxWSW9qa28/view?usp=sharing">https://drive.google.com/file/d/0B4PAo2nW2KfnMW5sVkxWSW9qa28/view?usp=sharing</a></li>
-<li> DXF file&nbsp;:<a rel="nofollow" class="external free" href="https://drive.google.com/file/d/0B4PAo2nW2KfnZGcycVk2bWhmWjA/view?usp=sharing">https://drive.google.com/file/d/0B4PAo2nW2KfnZGcycVk2bWhmWjA/view?usp=sharing</a></li>
-<li> CE FCC RoHS&nbsp;: <a rel="nofollow" class="external text" href="http://forum.banana-pi.org/t/bpi-m2-zero-ce-fcc-rohs-certification/4613">BPI-M2 zero CE,FCC,RoHS </a> </li>
-<li> Allwinner documents:
-<ul><li> allwinner H3 chip doc baidu link: <a rel="nofollow" class="external free" href="https://pan.baidu.com/s/1qTULll2CR02d0Hw9itq1rw">https://pan.baidu.com/s/1qTULll2CR02d0Hw9itq1rw</a></li>
-<li> Allwinner H2+ chip doc baidu link: <a rel="nofollow" class="external free" href="https://pan.baidu.com/s/1TGMYr3rhizfhlg5hl6hLyg">https://pan.baidu.com/s/1TGMYr3rhizfhlg5hl6hLyg</a></li></ul></li>
-<li>Banana Pi M2 Zero - Review and compare to RPI Zero:<a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=CaXi1qbOvYk">https://www.youtube.com/watch?v=CaXi1qbOvYk</a></li>
-<li>Banana Pi M2 Zero - Unboxing, Caratteristiche e Test (CPU, Gimp, WiFi, USB, Burntest)：<a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=rioWNzPXBnM">https://www.youtube.com/watch?v=rioWNzPXBnM</a></li>
-<li>A Review of the Banana Pi M2 Zero Running openHAB&nbsp;: <a rel="nofollow" class="external free" href="https://community.openhab.org/t/a-review-of-the-banana-pi-m2-zero-running-openhab/37652">https://community.openhab.org/t/a-review-of-the-banana-pi-m2-zero-running-openhab/37652</a></li>
-<li>Banana Pi BPI-M2 Zero with OpenCV&nbsp;: <a rel="nofollow" class="external free" href="https://bluexmas.tistory.com/category/OS/Banana%20Pi%20%EF%BC%8FBPI-Bit?page=2">https://bluexmas.tistory.com/category/OS/Banana%20Pi%20%EF%BC%8FBPI-Bit?page=2</a></li>
-<li>Banana Pi M2 Zero: Low-Cost, Quad Core SBC&nbsp;: <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=51OMXTElStM&amp;feature=youtu.be">https://www.youtube.com/watch?v=51OMXTElStM&amp;feature=youtu.be</a></li></ul>
 ______________________________________________________
 [![Solid90](https://raspberry-valley.azurewebsites.net/img/raspibanner.jpg)](https://github.com/D3vD3m0n/)| 
