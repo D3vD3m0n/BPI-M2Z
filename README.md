@@ -8,21 +8,24 @@
 
 Banana PI Zero (BPi-M2Z) Expansions 
 
-     git BPI-M2Z
+git BPI-M2Z
 
-sudo rm -rf BPI-M2Z
-sudo git clone https://github.com/D3vD3m0n/BPI-M2Z.git
-sudo chmod -R 755 BPI-M2Z
-cd BPI-M2Z/
+     sudo rm -rf BPI-M2Z
+     sudo git clone https://github.com/D3vD3m0n/BPI-M2Z.git
+     sudo chmod -R 755 BPI-M2Z
+     cd BPI-M2Z/
 configure:
-sudo ./configure
-sudo make
-sudo make install
+   
+     cd BPI-M2Z/
+     sudo ./configure
+     sudo make
+     sudo make install
 
-     Install BPI-M2Z via curl Install BPI-M2Z via wget 
+Install BPI-M2Z via curl Install BPI-M2Z via wget 
 
-$ sh -c "$(curl -fsSL https://raw.github.com/D3vD3m0n/BPI-M2Z/master/tools/install.sh)"
 
+     $ sh -c "$(curl -fsSL https://raw.github.com/D3vD3m0n/BPI-M2Z/master/tools/install.sh)"
+     
 # BPI-M2Z hardware
 <tbody><tr>
 <td style="background: PaleTurquoise; color: black" colspan="4"> <b>HardWare  Specification of Banana pi BPI-P2 Zero VS BPI-M2 zero  VS Raspberry Pi Zero W</b>
