@@ -14,9 +14,7 @@ git BPI-M2Z
      sudo git clone https://github.com/D3vD3m0n/BPI-M2Z.git
      sudo chmod -R 755 BPI-M2Z
      cd BPI-M2Z/
-configure:
    
-     cd BPI-M2Z/
      sudo ./configure
      sudo make
      sudo make install
