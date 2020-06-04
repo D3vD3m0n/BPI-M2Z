@@ -1,6 +1,10 @@
 # Banana PI ZERO (BPi-M2Z) Expansions 
 [![Solid001](http://wiki.banana-pi.org/images/9/97/960x360xBanana_Pi_BPI-M2_Zero.jpg.pagespeed.ic.ojS9lv8uWg.webp)](https://github.com/D3vD3m0n/)
-[![Solid002](http://wiki.banana-pi.org/images/9/96/426x500xZerointerface.jpg.pagespeed.ic.1TB5s7qhcd.webp)](https://github.com/D3vD3m0n/)
+<table>
+  <td> <img src="http://wiki.banana-pi.org/images/9/96/426x500xZerointerface.jpg.pagespeed.ic.1TB5s7qhcd.webp" alt=""></img></td>
+  <td><img src="http://forum.banana-pi.org/uploads/default/original/2X/b/b98c374cda5d6484283351ab11044cc859bec5e2.jpg" alt=""></img></td>
+</table> 
+<table class="wikitable">
 
 Banana PI Zero (BPi-M2Z) Expansions 
 
@@ -20,12 +24,6 @@ sudo make install
 $ sh -c "$(curl -fsSL https://raw.github.com/D3vD3m0n/BPI-M2Z/master/tools/install.sh)"
 
 # BPI-M2Z hardware
-<table>
-  <tr><th> </th>
-  <tr><td><img src="http://forum.banana-pi.org/uploads/default/original/2X/b/b98c374cda5d6484283351ab11044cc859bec5e2.jpg" alt=""></img></td>
-</table> 
-<table class="wikitable">
-
 <tbody><tr>
 <td style="background: PaleTurquoise; color: black" colspan="4"> <b>HardWare  Specification of Banana pi BPI-P2 Zero VS BPI-M2 zero  VS Raspberry Pi Zero W</b>
 </td></tr>
